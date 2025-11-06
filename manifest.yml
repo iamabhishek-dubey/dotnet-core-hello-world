@@ -5,3 +5,4 @@ applications:
     env:
       CACHE_NUGET_PACKAGES: false
       DUMMY_KEY: ASIAY34FZKBOKMUTVV7A
+
